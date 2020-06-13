@@ -1,4 +1,3 @@
-
 const swaggerOptions = {
     swaggerDefinition: {
         info: {
@@ -14,4 +13,3 @@ const swaggerOptions = {
 }
 
 export default swaggerOptions;
-
